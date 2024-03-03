@@ -1,0 +1,1 @@
+export const BASE_URL='https://the-note-api-mw4g.vercel.app';
